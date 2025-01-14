@@ -1,0 +1,12 @@
+[submodule "mysitea"]
+	path = mysitea
+	url = git@github.com:nelson-ens/mysitea.git
+	branch = main
+[submodule "mysiteb"]
+	path = mysiteb
+	url = git@github.com:nelson-ens/mysiteb.git
+	branch = main
+[submodule "mysitecommon"]
+	path = mysitecommon
+	url = git@github.com:nelson-ens/mysitecommon.git
+	branch = main

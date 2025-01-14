@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>mysitecommon</module>
         <module>mysitea</module>
         <module>mysiteb</module>
     </modules>
