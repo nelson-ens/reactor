@@ -10,3 +10,7 @@
 	path = mysitecommon
 	url = git@github.com:nelson-ens/mysitecommon.git
 	branch = main
+[submodule "dispatcher"]
+	path = dispatcher
+	url = git@github.com:nelson-ens/dispatcher
+	branch = main
